@@ -12,7 +12,7 @@ export default () => {
       <div className='card'>
         <Intro />
         <h2>Docs and Examples</h2>
-        <p>The source code of this hook should be easy to digest as it’s pretty short, so feel free <a href='https://github.com/filipdanic/use-map/blob/master/src/index.js' target='_blank' rel='noopener noreferrer'>check it out on GitHub.</a></p>
+        <p>The source code of this hook should be easy to digest as it’s pretty short, so feel free <a href='https://github.com/filipdanic/use-object/blob/master/src/index.js' target='_blank' rel='noopener noreferrer'>check it out on GitHub.</a></p>
         <h3>Initializing</h3>
         <p>This page is a living doc and example, as you click on buttons you’re changing the actual state of this page.</p>
         <p>We start with <code>import useMap from 'use-object';</code> and then include the hook into our component:</p>

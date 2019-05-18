@@ -4,7 +4,7 @@
   "description": "A custom React hook that lets you manipulate an object data structure.",
   "author": "http://danicfilip.com/",
   "license": "MIT",
-  "repository": "http://github.com/filipdanic/use-map",
+  "repository": "http://github.com/filipdanic/use-object",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
