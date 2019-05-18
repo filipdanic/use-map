@@ -3,7 +3,7 @@
 
 A custom React hook that lets you manipulate an array data structure without ever needing extra utilities.
 
-[👉 Demo site and docs.](https://filipdanic.github.io/use-map/)
+[👉 Demo site and docs.](https://filipdanic.github.io/use-object/)
 
 Start with:
 
@@ -21,7 +21,7 @@ import useMap from 'use-object'
 
 ## Docs
 
-The complete documentation as well as a live demo [is available here.](https://filipdanic.github.io/use-map/)
+The complete documentation as well as a live demo [is available here.](https://filipdanic.github.io/use-object/)
 
 ## License
 
