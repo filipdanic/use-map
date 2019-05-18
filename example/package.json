@@ -9,7 +9,7 @@
     "react": "file:../node_modules/react",
     "react-dom": "file:../node_modules/react-dom",
     "react-scripts": "file:../node_modules/react-scripts",
-    "use-map": "file:.."
+    "use-object": "file:.."
   },
   "devDependencies": {
     "gh-pages": "^2.0.1"

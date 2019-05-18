@@ -1,5 +1,5 @@
 import React from 'react';
-import useMap from 'use-map';
+import useMap from 'use-object';
 import Intro from './Intro';
 
 export default () => {
