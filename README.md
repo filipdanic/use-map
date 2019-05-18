@@ -26,3 +26,7 @@ The complete documentation as well as a live demo [is available here.](https://f
 ## License
 
 MIT © [filipdanic](https://github.com/filipdanic)
+
+## Related
+
+If you like `use-map` you might find [use-array](https://filipdanic.github.io/use-array/) useful as well.

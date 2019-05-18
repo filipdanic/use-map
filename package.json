@@ -1,7 +1,7 @@
 {
   "name": "use-map",
   "version": "1.0.0",
-  "description": "A custom React hook that lets you manipulate an array data structure without ever needing extra utilities.",
+  "description": "A custom React hook that lets you manipulate an object data structure.",
   "author": "http://danicfilip.com/",
   "license": "MIT",
   "repository": "http://github.com/filipdanic/use-map",
