@@ -1,5 +1,5 @@
-[![NPM](https://img.shields.io/npm/v/use-map.svg)](https://www.npmjs.com/package/use-map)
-# use-map
+[![NPM](https://img.shields.io/npm/v/use-object.svg)](https://www.npmjs.com/package/use-object)
+# use-object
 
 A custom React hook that lets you manipulate an array data structure without ever needing extra utilities.
 
@@ -8,13 +8,13 @@ A custom React hook that lets you manipulate an array data structure without eve
 Start with:
 
 ```bash
-npm install --save use-map
+npm install --save use-object
 ```
 
 Then, import and use the hook:
 
 ```javascript
-import useMap from 'use-map'
+import useMap from 'use-object'
 // …in your functional component:
   const [ map, { get, set, update, getIn, remove, replace } ] = useMap(initialMap);
 ```
@@ -29,4 +29,4 @@ MIT © [filipdanic](https://github.com/filipdanic)
 
 ## Related
 
-If you like `use-map` you might find [use-array](https://filipdanic.github.io/use-array/) useful as well.
+If you like `use-object` you might find [use-array](https://filipdanic.github.io/use-array/) useful as well.

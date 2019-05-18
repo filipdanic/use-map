@@ -1,5 +1,5 @@
 {
-  "name": "use-map",
+  "name": "use-object",
   "version": "1.0.0",
   "description": "A custom React hook that lets you manipulate an object data structure.",
   "author": "http://danicfilip.com/",
