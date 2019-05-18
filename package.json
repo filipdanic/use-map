@@ -1,6 +1,6 @@
 {
   "name": "use-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom React hook that lets you manipulate an object data structure.",
   "author": "http://danicfilip.com/",
   "license": "MIT",
