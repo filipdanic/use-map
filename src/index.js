@@ -2,13 +2,6 @@ import { useState } from 'react';
 import getNestedValue from 'get-nested-value';
 
 const useMap = (initialMap = {}) => {
-  if (
-    process.env.NODE_ENV !== 'production' &&
-    (typeof initialMap !== 'object' || Array.isArray(initialMap))
-  ) {
-    console.error('The useMap hook should be initialized with an object!')
-  }
-
   const [ map, set ] = useState(initialMap);
   return [
     map,
